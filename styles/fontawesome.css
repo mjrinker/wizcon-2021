@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: block;
+  src: url("../vendor/fontawesome/webfonts/fa-light-300.woff2") format("woff2"), url("../vendor/fontawesome/webfonts/fa-light-300.woff") format("woff"), url("../vendor/fontawesome/webfonts/fa-light-300.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../vendor/fontawesome/webfonts/fa-regular-400.woff2") format("woff2"), url("../vendor/fontawesome/webfonts/fa-regular-400.woff") format("woff"), url("../vendor/fontawesome/webfonts/fa-regular-400.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../vendor/fontawesome/webfonts/fa-solid-900.woff2") format("woff2"), url("../vendor/fontawesome/webfonts/fa-solid-900.woff") format("woff"), url("../vendor/fontawesome/webfonts/fa-solid-900.ttf") format("truetype");
+}
+
+@layer utilities {
+  @variants hover, focus {
+    .font-black {
+      font-weight: 900;
+    }
+  }
+}
+
+.fa {
+  font-family: 'Font Awesome 6 Pro';
+}
+
+.fa-heart::before {
+  content: "\f004";
+}
+
+.fa-heart-broken::before {
+  content: "\f7a9";
+}
+
+.fa-sun::before {
+  content: "\f185";
+}
+
+.fa-moon::before {
+  content: "\f186";
+}
+
+.icon-heart-empty {
+    @apply fa font-normal fa-heart text-gray-500 hover:font-black hover:text-red-300;
+}
+
+.icon-heart-filled {
+    @apply fa font-black fa-heart text-red-500 hover:text-gray-400;
+}
+
+.icon-heart-broken {
+    @apply fa font-black fa-heart-broken text-gray-500;
+}
+
+html.dark .icon-heart-empty {
+    @apply fa font-normal fa-heart text-gray-400 hover:font-black hover:text-red-200;
+}
+
+html.dark .icon-heart-filled {
+    @apply fa font-black fa-heart text-red-700 hover:text-gray-400;
+}
+
+.icon-heart-loading {
+    @apply fa font-black fa-heart text-blue-400;
+}
+
+html.dark .icon-heart-loading {
+    @apply fa font-black fa-heart text-gray-500;
+}

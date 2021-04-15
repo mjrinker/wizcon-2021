@@ -1,0 +1,11 @@
+@import './button.css';
+@import './fontawesome.css';
+@import './toggle-switch.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.layout.mousedown *:focus {
+ outline: 0;
+}

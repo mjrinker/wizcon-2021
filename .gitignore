@@ -1,0 +1,12 @@
+node_modules/
+public/bundles/
+build/
+src/dist/
+coverage/
+.reactful.json
+yarn-error.log
+.env
+.vscode/
+.DS_Store
+.next/
+vendor/

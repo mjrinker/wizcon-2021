@@ -1,0 +1,931 @@
+{
+  "speakers": [
+    {
+      "bio": "Aang is a male Air Nomad born in 12 BG and the Avatar during the Hundred Year War, succeeding Avatar Roku. As the Avatar of his time, he is the only person capable of using all four bending arts: airbending, waterbending, earthbending, and firebending. He is also one of a select few Avatars and one of the first in many cycles to learn the ancient art of energybending and the first Avatar known to actively use the technique.",
+      "firstName": "Aang",
+      "id": 4532,
+      "imageSrc": "speaker-4532",
+      "isFavorite": true,
+      "lastName": null,
+      "name": "Avatar Aang",
+      "prefix": "Avatar",
+      "schedule": {
+        "19": {
+          "10": false,
+          "11": "Airbending Basics",
+          "12": false,
+          "13": null,
+          "14": "Becoming the Avatar",
+          "15": "Waterbending Basics",
+          "16": "Earthbending Basics",
+          "17": null,
+          "18": "Firebending Basics",
+          "19": null
+        },
+        "20": {
+          "10": false,
+          "11": "Airbending Basics",
+          "12": false,
+          "13": null,
+          "14": null,
+          "15": "Waterbending Basics",
+          "16": "Earthbending Basics",
+          "17": null,
+          "18": "Firebending Basics",
+          "19": null
+        },
+        "21": {
+          "10": false,
+          "11": "Airbending for Intermediate Airbenders",
+          "12": false,
+          "13": "Becoming the Avatar",
+          "14": null,
+          "15": "Waterbending for Intermediate Waterbenders",
+          "16": "Earthbending for Intermediate Earthbenders",
+          "17": null,
+          "18": "Firebending for Intermediate Firebenders",
+          "19": null
+        },
+        "22": {
+          "10": false,
+          "11": "Airbending for Advanced Airbenders",
+          "12": false,
+          "13": null,
+          "14": null,
+          "15": "Waterbending for Advanced Waterbenders",
+          "16": "Earthbending for Advanced Earthbenders",
+          "17": null,
+          "18": "Firebending for Advanced Firebenders",
+          "19": null
+        },
+        "23": {
+          "10": false,
+          "11": null,
+          "12": false,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Professor Albus Percival Wulfric Brian Dumbledore, O.M. (First Class), Grand Sorc., D. Wiz., X.J. (sorc.), S. of Mag.Q. is an English half-blood wizard, who was the Defence Against the Dark Arts Professor, later the Transfiguration Professor, and later the Headmaster of Hogwarts School of Witchcraft and Wizardry. Professor Dumbledore also served as Supreme Mugwump of the International Confederation of Wizards and Chief Warlock of the Wizengamot.",
+      "firstName": "Albus",
+      "id": 1142,
+      "isFavorite": true,
+      "lastName": "Dumbledore",
+      "imageSrc": "speaker-1142",
+      "name": "Albus Dumbledore",
+      "prefix": null,
+      "schedule": {
+        "19": {
+          "10": "Principles of Transfiguration",
+          "11": null,
+          "12": "Modern Darks Arts Defense",
+          "13": false,
+          "14": null,
+          "15": "History of the Wizarding War",
+          "16": null,
+          "17": "Intermediate Transfiguration",
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": "Defeating Grindelwald",
+          "12": null,
+          "13": false,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": false,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": false,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": false,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "The Ancient One is the Sorcerer Supreme as well as the leader of the Masters of the Mystic Arts. For centuries, the Ancient One has protected Earth from mystical threats, and has dedicated herself to helping others in need by educating them in the magical arts to give them new hope.",
+      "firstName": "Ancient One",
+      "id": 4752,
+      "imageSrc": "speaker-4752",
+      "isFavorite": false,
+      "lastName": null,
+      "name": "The Ancient One",
+      "prefix": "The",
+      "schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "\"The Doctor\" was the main alias used by a mysterious renegade Time Lord from Gallifrey who travels through time and space with various companions in an obsolete and \"borrowed\" Type 40 TARDIS. He is the universe's \"greatest defender\", having saved the cosmos thousands of times throughout a long life, becoming a great legend across the universe.",
+      "firstName": "Doctor",
+      "id": 15422,
+      "imageSrc": "speaker-15422",
+      "isFavorite": true,
+      "lastName": null,
+      "name": "The Doctor",
+      "prefix": "The",
+      "schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Gandalf the Grey is a Wizard dispatched to Middle-earth to combat the threat of Sauron. He joined Thorin and his company to reclaim the Lonely Mountain from Smaug, convoked the Fellowship of the Ring to destroy the One Ring, and led the Free Peoples in the final campaign of the War of the Ring.",
+      "firstName": "Gandalf",
+      "id": 1634,
+      "imageSrc": "speaker-1634",
+      "isFavorite": true,
+      "lastName": "the Grey",
+      "name": "Gandalf the Grey",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Minister Hermione Jean Granger is an English Muggle-born witch born to Mr. and Mrs. Granger. At the age of eleven, she learned about her magical nature and was accepted into Hogwarts School of Witchcraft and Wizardry. Hermione began attending Hogwarts in 1991 and was Sorted into Gryffindor House. She possessed a brilliant academic mind and proved to be a gifted student in almost every subject that she studied.",
+      "firstName": "Hermione",
+      "id": 1256,
+      "imageSrc": "speaker-1256",
+      "isFavorite": false,
+      "lastName": "Granger",
+      "name": "Hermione Granger",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Ian Lightfoot is an elf who learned of his magical ability on accident when he received a wizard's staff from his deceased father. He now seeks to bring the forgotten knowledge of magic back to his once-magical land.",
+      "firstName": "Ian",
+      "id": 8912,
+      "imageSrc": "speaker-8912",
+      "isFavorite": true,
+      "lastName": "Lightfoot",
+      "name": "Ian Lightfoot",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Unlike most sorcerers, Merlin was born with the ability to use magic. According to the Great Dragon, Merlin's birth had been prophesied by many cultures.",
+      "firstName": "Merlin",
+      "id": 14932,
+      "imageSrc": "speaker-14932",
+      "isFavorite": false,
+      "lastName": null,
+      "name": "Merlin",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Radagast the Brown is one of the Wizards sent to Middle-earth to contest the will of Sauron. Originally a Maia of Yavanna, Radagast is mainly concerned with the well-being of the plant and animal worlds.",
+      "firstName": "Radagast",
+      "id": 1347,
+      "imageSrc": "speaker-1347",
+      "isFavorite": false,
+      "lastName": "the Brown",
+      "name": "Radagast the Brown",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Rey Skywalker, is a human female Jedi Master who fought on the side of the Resistance in the war against the First Order. A former scavenger from the planet Jakku, her life was changed by the tumultuous events of the last days of the New Republic Era.",
+      "firstName": "Rey",
+      "id": 5281,
+      "imageSrc": "speaker-5281",
+      "isFavorite": false,
+      "lastName": "Skywalker",
+      "name": "Rey Skywalker",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Severus Snape is an English half-blood wizard serving as Potions Master (1981-1996), Head of Slytherin House (1981-1997), Defence Against the Dark Arts professor (1996-1997), and Headmaster (1997-1998) of the Hogwarts School of Witchcraft and Wizardry as well as a member of the Order of the Phoenix and a Death Eater. His double life played an extremely important role in both of the Wizarding Wars against Voldemort.",
+      "firstName": "Severus",
+      "id": 1593,
+      "imageSrc": "speaker-1593",
+      "isFavorite": true,
+      "lastName": "Snape",
+      "name": "Severus Snape",
+      "prefix": null,"schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Doctor Stephen Vincent Strange M.D., Ph.D is a powerful sorcerer and Master of the Mystic Arts. Originally a brilliant, although arrogant, neurosurgeon, Strange got into a car accident which resulted with his hands becoming crippled. When all Western medicine failed him, Strange embarked on a journey that led him into Kamar-Taj where Strange had made the discovery of magic and alternate dimensions, being trained by the Ancient One. Though focused on healing his hands and returning into his career, Strange learned more of the mystic arts and helped the Masters prevent Kaecilius from merging the Earth with the Dark Dimension.",
+      "firstName": "Stephen",
+      "id": 7845,
+      "imageSrc": "speaker-7845",
+      "isFavorite": false,
+      "lastName": "Strange",
+      "name": "Dr. Stephen Strange",
+      "prefix": "Dr.","schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    },
+    {
+      "bio": "Yoda, a Force-sensitive male being belonging to a mysterious species, is a legendary Grand Jedi Master who witnessed the rise and fall of the Galactic Republic, followed by the rise of the Galactic Empire. Small in stature but revered for his wisdom and power, Yoda trained generations of Jedi, ultimately serving as the Grand Master of the Jedi Order.",
+      "firstName": "Yoda",
+      "id": 7212,
+      "imageSrc": "speaker-7212",
+      "isFavorite": false,
+      "lastName": null,
+      "name": "Master Yoda",
+      "prefix": "Master","schedule": {
+        "19": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "20": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "21": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "22": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        },
+        "23": {
+          "10": null,
+          "11": null,
+          "12": null,
+          "13": null,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": null,
+          "18": null,
+          "19": null
+        }
+      }
+    }
+  ]
+}
